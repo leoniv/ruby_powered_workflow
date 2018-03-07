@@ -45,10 +45,10 @@ For example:
 
 # Ruby powered development workflow (RPDW)
 
-It's extension of [RPW](https://github.com/leoniv/ruby_powered_workflow) for developers 1C:Enterprise software. It was extracted into separate term for improve understanding and reduce confusion.
-
 > Unfortunately this tools does not finished now (2018/03/07) but it really works and was
 applied in few my projects.
+
+It's extension of [RPW](https://github.com/leoniv/ruby_powered_workflow) for developers 1C:Enterprise software. It was extracted into separate term for improve understanding and reduce confusion.
 
 There's only two main aspects of this:
 
