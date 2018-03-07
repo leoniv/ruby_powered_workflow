@@ -1,6 +1,6 @@
 # Ruby Powered Workflow (RPW)
 
-Documentation about RPW "Ruby Powered Workflow" aka
+All about RPW "Ruby Powered Workflow" aka
 "1C:Enterprise on Ruby Rails"
 
 ## Idea
