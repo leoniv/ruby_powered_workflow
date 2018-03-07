@@ -35,8 +35,7 @@ on [my github](https://github.com/leoniv)
 Exist many uses cases for [RPW](https://github.com/leoniv/ruby_powered_workflow).
 For example:
 
-- for console-frendly pioples using [ass_launcher](https://github.com/leoniv/ass_launcher) console
-utilits;
+- [ass_launcher](https://github.com/leoniv/ass_launcher) console utilits for peoples who like terminal;
 - support of 1C application instances;
 - access to its stored data;
 - testing 1C application code;
