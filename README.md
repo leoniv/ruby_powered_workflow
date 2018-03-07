@@ -49,5 +49,5 @@ It's extension of [RPW](https://github.com/leoniv/ruby_powered_workflow) for dev
 
 Only two main aspects of this:
 
-- supports software developers working process
-- testing of development 1C:Eneterprise software
+- supporting 1C:Eneterprise software developers working process;
+- testing of development 1C:Eneterprise software.
