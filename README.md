@@ -10,7 +10,7 @@ and maintainers.**
 
 ## Why it need?
 
-Don't exists exactly answer in one sentence. But i'm try to explanate
+Don't exists exactly answer in one sentence. But i'm try to explanate it
 [as soon as possable](https://github.com/leoniv/ruby_powered_workflow/issues/1)
 
 ## Why Ruby?
