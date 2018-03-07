@@ -25,7 +25,7 @@ Some number of powrefull gems:
 - [ass_ole](https://github.com/leoniv/ass_ole) - it's great for writing Ruby scripts
 for access to 1C:Enterprise application code in runtime and its stored data;
 - [ass_maintainer-info_base](https://github.com/leoniv/ass_maintainer-info_base) - abstraction for
-supports of 1C application instances aka "Information Base";
+supporting 1C application instances aka "Information Base";
 
 And some more things! Looking for "ass_" preficsed projects
 on [my github](https://github.com/leoniv)
