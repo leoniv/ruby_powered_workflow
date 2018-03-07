@@ -57,4 +57,4 @@ There's only two main things:
 - [ass_devel](https://github.com/leoniv/ass_devel) - for automate working process;
 - [ass_tests](https://github.com/leoniv/ass_tests) - for testing of 1C:Eneterprise software.
 
-In future, my be, other things will be neded for this will be included in `ass_devel` and `ass_tests` namespace. 
+In future, possable, other needed things will be included in `ass_devel` and `ass_tests` namespaces.
