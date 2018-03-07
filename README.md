@@ -30,9 +30,9 @@ supports of 1C application instances aka "Information Base";
 And some more things! Looking for "ass_" preficsed projects
 on [my github](https://github.com/leoniv)
 
-## Where it applicate
+## Where it applied
 
-Exist many uses cases for [RPW](https://github.com/leoniv/ruby_powered_workflow).
+There's many use cases for [RPW](https://github.com/leoniv/ruby_powered_workflow).
 For example:
 
 - [ass_launcher](https://github.com/leoniv/ass_launcher) console utilities for peoples who like terminal;
