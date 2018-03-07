@@ -47,7 +47,7 @@ For example:
 
 It's extension of [RPW](https://github.com/leoniv/ruby_powered_workflow) for developers 1C:Enterprise software. It was extracted into separate term for improve understanding and reduce confusion.
 
-Only two main aspects of this:
+There's only two main aspects of this:
 
 - supporting 1C:Eneterprise software developers working process;
 - testing of development 1C:Eneterprise software.
