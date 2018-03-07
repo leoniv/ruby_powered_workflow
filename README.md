@@ -11,7 +11,7 @@ and maintainers.**
 ## Why it need?
 
 Don't exists exactly answer in one sentence. But i'm try to explanate
-it in future #1, unfortunately on the Russian only.
+it in future (#1) unfortunately on the Russian only.
 
 ## Why Ruby?
 
