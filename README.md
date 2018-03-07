@@ -40,3 +40,7 @@ For example:
 - access to its stored data;
 - testing 1C application code;
 - etc.
+
+----
+
+# Ruby powered development workflow (RPDW)
