@@ -46,7 +46,7 @@ For example:
 # Ruby powered development workflow (RPDW)
 
 > Unfortunately this tools does not finished now (2018/03/07) but it really works and was
-applied in few my projects.
+borned and applied in the [few my projects](https://gitlab.com/tech_inventory_project).
 
 It's extension of [RPW](https://github.com/leoniv/ruby_powered_workflow) for developers 1C:Enterprise software. It was extracted into separate term for improve understanding and reduce confusion.
 
