@@ -45,4 +45,4 @@ For example:
 
 # Ruby powered development workflow (RPDW)
 
-It's extension of [RPW](https://github.com/leoniv/ruby_powered_workflow) for developers software for 1C:Enterprise platform. In extracts into standalone therm to improve understanding and reduce confusion. 
+It's extension of [RPW](https://github.com/leoniv/ruby_powered_workflow) for developers 1C:Enterprise software. It extracts into standalone therm for improve understanding and reduce confusion. 
