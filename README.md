@@ -11,7 +11,7 @@ and maintainers.**
 ## Why it need?
 
 Don't exists exactly answer in one sentence. But i'm try to explanate
-it in future #1 unfortunately on the Russian.
+[as soon as possable](https://github.com/leoniv/ruby_powered_workflow/issues/1)
 
 ## Why Ruby?
 
